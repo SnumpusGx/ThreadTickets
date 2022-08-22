@@ -37,15 +37,15 @@
     "ticketEmbed": {
         "title": "Central de Ajuda | Nome do seu servidor",  
         "description": "Nessa seção, você pode tirar suas dúvidas ou entrar em contato diretamente com a nossa equipe do Nome do seu servidor.",
-        "banner": "https://i.imgur.com/QbpUcOa.png",
+        "banner": "Link do banner de Suporte",
         "footer": "Se não tiver uma categoria específica para seu problema, entre em contato com a nossa equipe com a categoria de Suporte.",
         "color": "BLUE",
         "credits": true,
         "footerIcon": {
             "enabled": true,
-            "url": "https://i.imgur.com/a6eY6fd.png"
+            "url": "Link do Ícone do Servidor"
         }
     },
-    "ticketChannel": "973592012680990800",
-    "supportRole": "973591097613906071"
+    "ticketChannel": "ID DO CANAL DO TICKET",
+    "supportRole": "ID DO CARGO DE SUPORTE"
 }
